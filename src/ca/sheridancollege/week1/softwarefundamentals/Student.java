@@ -13,6 +13,7 @@ public class Student {
     
     private String name;
     private int studentId;
+    private float persentage;
     public String getName() {
         return name;
     }
