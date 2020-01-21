@@ -16,6 +16,7 @@ public class Student {
     private int studentId;
     private float persentage;
     private String address;
+    private String program;
 
     public String getAddress() {
         return address;
